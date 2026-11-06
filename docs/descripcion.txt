@@ -1,0 +1,4 @@
+﻿Proyecto de gestión académica.
+
+Objetivo:
+Desarrollar un sistema para administrar información de estudiantes universitarios.
